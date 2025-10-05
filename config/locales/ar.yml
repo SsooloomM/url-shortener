@@ -1,0 +1,7 @@
+ar:
+  hello: "يا هلا بالعالم"
+  shortener:
+    errors:
+      missing_original_url: original_url مفقودة
+      missing_short_url: short_url مفقود
+      short_url_not_found: لم يتم العثور على الرابط المختصر
